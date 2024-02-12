@@ -1,7 +1,5 @@
 # AIethics
 
-This is under review.
-
 
 # Computational Ethics for Undergraduate Students in Musashino University 
 
