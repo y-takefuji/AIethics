@@ -1,5 +1,7 @@
 # AIethics 
 
+Takefuji, Y. A Retrospective Cohort Study on Breast Cancer Screening: Comparing False-Positive and False-Negative Rates from Two BCSC Databases Ethics, Medicine and Public Health. (2023). https://doi.org/10.1016/j.jemep.2023.100938 
+
 Takefuji, Y. Autonomous AI shaft excavator: a case study on AI fairness for sustainability and green technology. Constr Robot 8, 16 (2024). https://doi.org/10.1007/s41693-024-00134-w
 
 
