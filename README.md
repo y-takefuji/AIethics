@@ -1,5 +1,7 @@
 # AIethics 
 
+Takefuji, Y. Autonomous AI shaft excavator: a case study on AI fairness for sustainability and green technology. Constr Robot 8, 16 (2024). https://doi.org/10.1007/s41693-024-00134-w
+
 
 # Computational Ethics for Undergraduate Students in Musashino University 
 
