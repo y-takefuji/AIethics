@@ -1,5 +1,7 @@
 # AIethics 
 
+The following peer-reviewed articles substantiate the important role of ethics in AI.
+
 Y. Takefuji,Greener technology of lithium batteries is needed for healthy humans and nature, Ethics,Medicine,& Public Health, https://doi.org/10.1016/j.jemep.2021.100744 Ethics,Medicine,& Public Health (2021)
 
 Takefuji, Y. An Urgent Call to Action: The Absolute Necessity to Ban Asbestos Production and Sales. Science of the Total Environment. (2023). https://doi.org/10.1016/j.scitotenv.2023.167557 
