@@ -10,6 +10,8 @@ Takefuji, Y. A Retrospective Cohort Study on Breast Cancer Screening: Comparing 
 
 Takefuji, Y. Autonomous AI shaft excavator: a case study on AI fairness for sustainability and green technology. Constr Robot 8, 16 (2024). https://doi.org/10.1007/s41693-024-00134-w
 
+Takefuji, Y. (2024). Unveiling inequality: A deep dive into racial and gender disparities in US court case closures. Cities, 154, 105398. https://doi.org/10.1016/j.cities.2024.105398 
+
 
 # Computational Ethics for Undergraduate Students in Musashino University 
 
